@@ -10,7 +10,7 @@ source ~/.vim_runtime/vimrcs/extended.vim
 set t_Co=256
 syntax on
 set background=dark
-colorscheme Tomorrow-Night-Blue 
+colorscheme distinguished 
 " set background=dark
 " set guifont=Monaco:h11
 set guifont="Source Code Pro":h11
